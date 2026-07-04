@@ -39,3 +39,5 @@ mongo-data/
 letsencrypt/
 .replit
 attached_assets/
+
+.devenv/
