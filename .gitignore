@@ -44,3 +44,5 @@ letsencrypt/
 stats.json
 .replit
 attached_assets/
+
+.devenv/
