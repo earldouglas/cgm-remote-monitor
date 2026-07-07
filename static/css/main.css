@@ -84,6 +84,8 @@
 .icon-hourglass:before { content: '\f254'; }
 .icon-moon:before { content: '\263e'; }
 .icon-sun:before { content: '\2600'; }
+.icon-expand:before { content: '\2197'; }
+.icon-compress:before { content: '\2199'; }
 
 /* Plugin Icons id-s (copy from generated icon style.css) */
 .plugicon-database:before { content: "\e901"; }
