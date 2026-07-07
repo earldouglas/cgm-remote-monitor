@@ -89,6 +89,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
         - [`simplealarms` (Simple BG Alarms)](#simplealarms-simple-bg-alarms)
         - [`profile` (Treatment Profile)](#profile-treatment-profile)
         - [`wake-lock` (Wake Lock)](#wake-lock-wake-lock)
+        - [`fullscreen` (Fullscreen)](#fullscreen-fullscreen)
       - [Advanced Plugins:](#advanced-plugins)
         - [`careportal` (Careportal)](#careportal-careportal)
         - [`boluscalc` (Bolus Wizard)](#boluscalc-bolus-wizard)
@@ -422,6 +423,10 @@ autonomy for your data:
 ##### `wake-lock` (Wake Lock)
 
   Add an icon that, when clicked, toggles [Screen Wake Lock](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Wake_Lock_API) to prevent the display from sleeping or locking.
+
+##### `fullscreen` (Fullscreen)
+
+  Add an icon that, when clicked, toggles [Fullscreen](https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API).
 
 #### Advanced Plugins:
 
