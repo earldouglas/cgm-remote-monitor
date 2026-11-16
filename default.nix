@@ -17,6 +17,6 @@ pkgs.buildNpmPackage (finalAttrs: {
 
   npmBuildScript = "bundle";
 
-  npmDepsHash = "sha256-WsNqFOWegYdoGFsxqIXi9MU+bhrGJ2GrYaRfgNpWpUM=";
+  npmDepsHash = "sha256-f5lusxenIEGT8HuxjUKuVLR+vgfQRW+wNx0QIfslUto=";
 
 })
